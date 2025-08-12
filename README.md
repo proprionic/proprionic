@@ -7,7 +7,7 @@ I believe **slow learning is better than no learning**, and I’m always eager t
 
 ## About Me
 
-- 💻 Main languages: **Python** (my strongest), **Bash**, **HTML**, **CSS** (Learning)
+- 💻 Main languages: **Python** (my strongest), **Bash**, **HTML**, **CSS** (Learning), C++ (Basic)
 - 🚀 Currently learning: Web development, game development, and working with hardware like **Arduino** and **Raspberry Pi**  
 - 🎮 Big fan of creative projects and experimenting with code and hardware  
 - 🤝 Open to collaboration, feedback, and new ideas  
