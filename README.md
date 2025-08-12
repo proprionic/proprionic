@@ -1,4 +1,4 @@
-# Hi, I'm Nicolas 👋
+# Hi, I'm Nic!
 
 I'm a passionate developer exploring code out of pure love and curiosity.  
 I believe **slow learning is better than no learning**, and I’m always eager to grow and collaborate.
