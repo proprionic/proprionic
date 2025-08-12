@@ -7,7 +7,7 @@ I believe **slow learning is better than no learning**, and I’m always eager t
 
 ## About Me
 
-- 💻 Main languages: **Python** (my strongest), **Bash**  
+- 💻 Main languages: **Python** (my strongest), **Bash**, **HTML**, **CSS** (Learning)
 - 🚀 Currently learning: Web development, game development, and working with hardware like **Arduino** and **Raspberry Pi**  
 - 🎮 Big fan of creative projects and experimenting with code and hardware  
 - 🤝 Open to collaboration, feedback, and new ideas  
@@ -16,7 +16,7 @@ I believe **slow learning is better than no learning**, and I’m always eager t
 
 ## What I Build
 
-- Practical utilities and tools — like boot-time loggers and system scripts  
+- Practical utilities and tools — like system scripts  
 - Fun and engaging game dev experiments  
 - Hardware projects blending code with physical devices  
 
@@ -40,9 +40,8 @@ I believe **slow learning is better than no learning**, and I’m always eager t
 
 ---
 
-Thanks for stopping by! 🚀
+Thanks for stopping by! 
 
 ---
 
 *“Coding is a journey, not a race.”*  
-— Nicolas
