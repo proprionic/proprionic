@@ -43,5 +43,3 @@ I believe **slow learning is better than no learning**, and I’m always eager t
 Thanks for stopping by! 
 
 ---
-
-*“Coding is a journey, not a race.”*  
