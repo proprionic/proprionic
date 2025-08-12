@@ -26,7 +26,7 @@ I believe **slow learning is better than no learning**, and I’m always eager t
 
 | Languages       | Tools & Technologies         |
 |-----------------|------------------------------|
-| Python          | Git, Linux, Bash             |
+| Python          | Git, Linux                   |
 | Bash            | Arduino, Raspberry Pi        |
 | Basic C++       | Pygame                       |
 | Some Web Dev    | APIs, Scripting              |
