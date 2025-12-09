@@ -7,7 +7,7 @@ I believe **slow learning is better than no learning**, and I’m always eager t
 
 ## About Me
 
-- 💻 Main languages: **Python** (my strongest), **Bash**, **HTML**, **CSS** (Learning), C++ (Basic)
+- 💻 Main languages: **Python** (my strongest), **Bash**, **HTML**, **CSS**, **JS** (Learning), C++ (Medium-Advanced)
 - 🚀 Currently learning: Web development, game development, and working with hardware like **Arduino** and **Raspberry Pi**  
 - 🎮 Big fan of creative projects and experimenting with code and hardware  
 - 🤝 Open to collaboration, feedback, and new ideas  
@@ -29,7 +29,7 @@ I believe **slow learning is better than no learning**, and I’m always eager t
 | Python          | Git, Linux                   |
 | Bash            | Arduino, Raspberry Pi        |
 | Basic C++       | Pygame                       |
-| Some Web Dev    | APIs, Scripting              |
+| Web Dev         | APIs, Scripting              |
 
 ---
 
@@ -43,3 +43,6 @@ I believe **slow learning is better than no learning**, and I’m always eager t
 Thanks for stopping by! 
 
 ---
+
+dc: .nvc.
+ig: proprionic
